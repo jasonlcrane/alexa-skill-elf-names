@@ -1,0 +1,11 @@
+ElfNameIntent for an elf name
+ElfNameIntent for an elf's name
+ElfNameIntent for a name
+ElfNameIntent tell me an elf name
+ElfNameIntent tell me an elf's name
+ElfNameIntent to elf me
+ElfNameIntent elf me
+ElfNameIntent what is my elf name
+ElfNameIntent what's my elf name
+ElfNameIntent what is my elf's name
+ElfNameIntent what's my elf's name
